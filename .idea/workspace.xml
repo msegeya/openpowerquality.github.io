@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="542d5d83-fe9b-4d59-8db8-fd2797ca9c50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="542d5d83-fe9b-4d59-8db8-fd2797ca9c50" name="Default" comment="" />
     <ignored path="OPQ.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -229,8 +226,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="836" />
-    <option name="y" value="136" />
+    <option name="x" value="741" />
+    <option name="y" value="70" />
     <option name="width" value="1393" />
     <option name="height" value="943" />
   </component>
@@ -500,7 +497,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="836" y="136" width="1393" height="943" extended-state="0" />
+    <frame x="741" y="70" width="1393" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
