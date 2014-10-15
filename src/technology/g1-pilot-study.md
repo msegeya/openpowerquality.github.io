@@ -67,7 +67,11 @@ Currently, we use a Raspberry Pi single board computer for the main processing u
 
 While the G1 OPQBox generally satisfied the design goals, the G1 Pilot Study revealed a number of issues:
 
-*(Sergey, please send me an email with a list of shortcomings regarding the G1 design. For example, the use of a transformer to both power the device and collect data.)*
+**Impact of NTP-based synchronization on analysis.** The G1 design relies on NTP (Network Time Protocol) to synchronize the clocks of the OPQBoxes.  Most utility-grade power quality devices (such as PMUs) use GPS in order to get nanosecond-level synchronization. We chose NTP because this reduces the cost of device hardware significantly as well as simplifies installation and use. We need to perform more research to determine the level of synchronization we are obtained between OPQBoxes, and what impact the use of NTP has on the kinds of analyses we can support.
+
+**Event recording upon power cutout.** Our current hardware has no battery backup, which means in the event of a complete loss of power, the device will not have time to shut down and record the wave form prior to cut-off.   We will rectify this design shortcoming in the G2 design.
+
+*(Sergey, please send me an email with other issues regarding the G1 design. For example, the use of a transformer to both power the device and collect data.)*
 
 # OPQHub
 
@@ -90,7 +94,7 @@ Here is a screen image of the OPQHub home page as of the end of the G1 Pilot Stu
 
 This page illustrates the many of the basic features of the G1 service: display of event data, map-based viewing of events, and ITEC characterization. 
 
-*(Anthony: Please send me credentials so I can get more screen images to document the G1 UI.)*
+*(Philip will add more screen shots soon.)*
 
 ## OPQHub Findings
 
