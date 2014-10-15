@@ -104,7 +104,7 @@ While the G1 OPQHub also satisfied the design goals at a high level, the G1 Pilo
 
 **Performance.** The performance of the system was found to be satisfactory, however we do not expect the current architecture to scale beyond at most a few thousand OPQBoxes. 
 
-*(Anthony, please send me an email with any other shortcomings regarding the G1 OPQHub design. For example, the use of a transformer to both power the device and collect data.)*
+*(Anthony, please send me an email with any other shortcomings regarding the G1 OPQHub design.)*
 
 
 # Communication Protocol
