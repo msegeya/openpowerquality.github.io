@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="542d5d83-fe9b-4d59-8db8-fd2797ca9c50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/community.html" afterPath="$PROJECT_DIR$/src/_site/organization/community.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/contact.html" afterPath="$PROJECT_DIR$/src/_site/organization/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/developerguide.html" afterPath="$PROJECT_DIR$/src/_site/technology/developerguide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" afterPath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/feed.xml" afterPath="$PROJECT_DIR$/src/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/g1-pilot-study.html" afterPath="$PROJECT_DIR$/src/_site/technology/g1-pilot-study.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/technology/g1-pilot-study.md" afterPath="$PROJECT_DIR$/src/technology/g1-pilot-study.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" afterPath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/index.html" afterPath="$PROJECT_DIR$/src/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/motivation.html" afterPath="$PROJECT_DIR$/src/_site/organization/motivation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/news.html" afterPath="$PROJECT_DIR$/src/_site/organization/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" afterPath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/10/20/pilot-study.html" afterPath="$PROJECT_DIR$/src/_site/2014/10/20/pilot-study.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/quickstart.html" afterPath="$PROJECT_DIR$/src/_site/technology/quickstart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/roadmap.html" afterPath="$PROJECT_DIR$/src/_site/technology/roadmap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/team.html" afterPath="$PROJECT_DIR$/src/_site/organization/team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/04/02/techreport.html" afterPath="$PROJECT_DIR$/src/_site/2014/04/02/techreport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/userguide.html" afterPath="$PROJECT_DIR$/src/_site/technology/userguide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="542d5d83-fe9b-4d59-8db8-fd2797ca9c50" name="Default" comment="" />
     <ignored path="OPQ.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -96,8 +76,8 @@
       <file leaf-file-name="g1-pilot-study.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4745167" vertical-offset="330" max-vertical-offset="3840">
-              <caret line="28" column="241" selection-start-line="28" selection-start-column="241" selection-end-line="28" selection-end-column="241" />
+            <state vertical-scroll-proportion="0.84358525" vertical-offset="330" max-vertical-offset="3840">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -958,8 +938,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4745167" vertical-offset="330" max-vertical-offset="3840">
-          <caret line="28" column="241" selection-start-line="28" selection-start-column="241" selection-end-line="28" selection-end-column="241" />
+        <state vertical-scroll-proportion="0.84358525" vertical-offset="330" max-vertical-offset="3840">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding />
         </state>
       </provider>
