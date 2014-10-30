@@ -124,7 +124,7 @@ We designed the G1 OPQHub with the following goals:
   3. Provide a useful public interface for viewing events. 
   3. Provide map-based location "coarsening" for privacy 
   4. Provide very basic alert-based analytics to inform users when events occur. 
-  5. Implement the ITEC algorithm for determining event impact.
+  5. Implement the ITIC algorithm for determining event impact.
   
 The G1 OPQHub is a two-tier web application using the [Play Framework](https://www.playframework.com/) and [MySQL](http://www.mysql.com/).  It is deployed on a virtual server (2 Intel Xeon X5690 CPUs at 3.47GHz, 32 GB RAM, 100 GB solid state disk) at the University of Hawaii. 
 
@@ -132,7 +132,7 @@ Here is a screen image of the OPQHub home page as of the end of the G1 Pilot Stu
 
 <img src="../images/opqhub-home.png" class="center-block img-responsive">
 
-This page illustrates the many of the basic features of the G1 service: display of event data, map-based viewing of events, and ITEC characterization. The "Display" pane allows the user to filter the displayed events by a variety of criteria.  In addition, the default values and other displays in the home page provide useful summary statistics about the range of values contained in the database. For example,
+This page illustrates the many of the basic features of the G1 service: display of event data, map-based viewing of events, and ITIC characterization. The "Display" pane allows the user to filter the displayed events by a variety of criteria.  In addition, the default values and other displays in the home page provide useful summary statistics about the range of values contained in the database. For example,
 
   * Frequency varies from approximately 59 Hz to 61 Hz (rounded to integer values).
   * Voltage varies from 90 to 140 V.
