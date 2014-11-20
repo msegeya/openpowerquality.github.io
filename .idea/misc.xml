@@ -3,6 +3,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="IdProvider" IDEtalkID="9A4A7BFF0FC597E6E2BF435CDAD8739A" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -105,4 +106,3 @@
     </states>
   </component>
 </project>
-

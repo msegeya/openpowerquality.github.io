@@ -2,27 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="542d5d83-fe9b-4d59-8db8-fd2797ca9c50" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_site/2014/04/02/techreport.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_site/2014/10/20/pilot-study.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/community.html" afterPath="$PROJECT_DIR$/src/_site/organization/community.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/contact.html" afterPath="$PROJECT_DIR$/src/_site/organization/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_layouts/default.html" afterPath="$PROJECT_DIR$/src/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/developerguide.html" afterPath="$PROJECT_DIR$/src/_site/technology/developerguide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" afterPath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/feed.xml" afterPath="$PROJECT_DIR$/src/_site/feed.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/g1-pilot-study.html" afterPath="$PROJECT_DIR$/src/_site/technology/g1-pilot-study.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/technology/g1-pilot-study.md" afterPath="$PROJECT_DIR$/src/technology/g1-pilot-study.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" afterPath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/index.html" afterPath="$PROJECT_DIR$/src/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/motivation.html" afterPath="$PROJECT_DIR$/src/_site/organization/motivation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/news.html" afterPath="$PROJECT_DIR$/src/_site/organization/news.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" afterPath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/10/20/pilot-study.html" afterPath="$PROJECT_DIR$/src/_site/2014/10/20/pilot-study.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/quickstart.html" afterPath="$PROJECT_DIR$/src/_site/technology/quickstart.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/roadmap.html" afterPath="$PROJECT_DIR$/src/_site/technology/roadmap.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/team.html" afterPath="$PROJECT_DIR$/src/_site/organization/team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/04/02/techreport.html" afterPath="$PROJECT_DIR$/src/_site/2014/04/02/techreport.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/userguide.html" afterPath="$PROJECT_DIR$/src/_site/technology/userguide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OPQ.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,69 +87,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1380">
-              <caret line="55" column="98" selection-start-line="55" selection-start-column="98" selection-end-line="55" selection-end-column="98" />
+            <state vertical-scroll-proportion="0.75376886" vertical-offset="450" max-vertical-offset="1395">
+              <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="g1-pilot-study.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="g1-pilot-study.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16758747" vertical-offset="3179" max-vertical-offset="3840">
+            <state vertical-scroll-proportion="7.7" vertical-offset="2616" max-vertical-offset="3825">
               <caret line="159" column="32" selection-start-line="159" selection-start-column="32" selection-end-line="159" selection-end-column="32" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-10-20-pilot-study.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-20-pilot-study.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-10-20-pilot-study.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-20-pilot-study.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
               <caret line="6" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-10-27-opqbox2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-27-opqbox2.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-10-27-opqbox2.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-27-opqbox2.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="255">
               <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014-02-04-excelerator.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_posts/2014-02-04-excelerator.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2014-02-04-excelerator.md" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_posts/2014-02-04-excelerator.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210">
               <caret line="6" column="139" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="1140" max-vertical-offset="1800">
@@ -154,16 +159,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="roadmap.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="roadmap.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1035">
               <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -178,67 +183,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
-    <option name="changedFiles">
+    <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/_posts/2014-02-04-excelerator.md" />
-        <option value="$PROJECT_DIR$/src/_posts/2014-04-020-techreport.md" />
-        <option value="$PROJECT_DIR$/src/_posts/2014-04-02-techreport.md" />
-        <option value="$PROJECT_DIR$/src/about/contact.md" />
-        <option value="$PROJECT_DIR$/src/about/motivation.md" />
-        <option value="$PROJECT_DIR$/src/technology/developerguide.md" />
-        <option value="$PROJECT_DIR$/src/_layouts/container.html" />
-        <option value="$PROJECT_DIR$/src/about/community.md" />
-        <option value="$PROJECT_DIR$/src/about/team.md" />
-        <option value="$PROJECT_DIR$/src/technology/overview.md" />
-        <option value="$PROJECT_DIR$/src/technology/case-studies.md" />
-        <option value="$PROJECT_DIR$/src/_includes/community-image.html" />
-        <option value="$PROJECT_DIR$/src/_includes/team-member.html" />
-        <option value="$PROJECT_DIR$/src/organization/team.md" />
-        <option value="$PROJECT_DIR$/src/_posts/2014-08-01-g1-pilot.md" />
-        <option value="$PROJECT_DIR$/src/technology/quickstart.md" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/overview/goals.md" />
-        <option value="$PROJECT_DIR$/src/overview/architecture.md" />
-        <option value="$PROJECT_DIR$/src/overview/history.md" />
-        <option value="$PROJECT_DIR$/src/overview/news.md" />
-        <option value="$PROJECT_DIR$/src/overview/publications.md" />
-        <option value="$PROJECT_DIR$/src/overview/team.md" />
-        <option value="$PROJECT_DIR$/src/overview/domainmodel.md" />
-        <option value="$PROJECT_DIR$/src/installationguide/administration.md" />
-        <option value="$PROJECT_DIR$/src/installationguide/deploy-heroku.md" />
-        <option value="$PROJECT_DIR$/src/installationguide/deploy-local.md" />
-        <option value="$PROJECT_DIR$/src/installationguide/installation.md" />
-        <option value="$PROJECT_DIR$/src/installationguide/prerequisites.md" />
-        <option value="$PROJECT_DIR$/src/userguide/definitions.md" />
-        <option value="$PROJECT_DIR$/src/userguide/retrieval.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/branching.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/building.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/documentation.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/downloading.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/evaluating-performance.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/persistence.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/prerequisites.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/release.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/results-mopsa.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/writing-clients.md" />
-        <option value="$PROJECT_DIR$/src/developerguide/writing-sensors.md" />
-        <option value="$PROJECT_DIR$/src/api/http.md" />
-        <option value="$PROJECT_DIR$/src/api/java.md" />
-        <option value="$PROJECT_DIR$/src/api/javascript.md" />
-        <option value="$PROJECT_DIR$/src/technology/pilot-studies.md" />
-        <option value="$PROJECT_DIR$/src/technology/roadmap.md" />
-        <option value="$PROJECT_DIR$/src/_posts/2014-10-20-pilot-study.md" />
-        <option value="$PROJECT_DIR$/src/_posts/2014-10-27-opqbox2.md" />
         <option value="$PROJECT_DIR$/src/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/src/technology/g1-pilot-study.md" />
       </list>
     </option>
   </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="143" />
-    <option name="y" value="78" />
-    <option name="width" value="1189" />
-    <option name="height" value="716" />
+    <option name="x" value="46" />
+    <option name="y" value="26" />
+    <option name="width" value="1192" />
+    <option name="height" value="718" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -247,6 +205,8 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
     <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
@@ -266,9 +226,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -378,6 +335,9 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -392,6 +352,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -504,30 +465,34 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="143" y="78" width="1189" height="716" extended-state="0" />
+    <frame x="46" y="26" width="1192" height="718" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24982053" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2624054" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26174498" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -548,6 +513,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -555,15 +521,15 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_posts/2014-02-04-excelerator.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210">
           <caret line="6" column="139" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -574,14 +540,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1035">
           <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
@@ -593,14 +559,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2535">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
@@ -612,14 +578,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1035">
           <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
@@ -631,14 +597,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="2535">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
@@ -650,14 +616,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1035">
           <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
@@ -669,14 +635,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1299" max-vertical-offset="2040">
           <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
@@ -688,14 +654,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="1035">
           <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
@@ -707,14 +673,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1305" max-vertical-offset="2040">
           <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
@@ -726,15 +692,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="1035">
           <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -745,15 +711,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="660">
           <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -764,14 +730,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="690">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
@@ -934,71 +900,67 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/technology/roadmap.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="1035">
           <caret line="13" column="109" selection-start-line="13" selection-start-column="109" selection-end-line="13" selection-end-column="109" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_posts/2014-02-04-excelerator.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_posts/2014-02-04-excelerator.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="210">
           <caret line="6" column="139" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-20-pilot-study.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-20-pilot-study.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="225">
           <caret line="6" column="30" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-27-opqbox2.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-27-opqbox2.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="255">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="1380">
-          <caret line="55" column="98" selection-start-line="55" selection-start-column="98" selection-end-line="55" selection-end-column="98" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/technology/g1-pilot-study.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16758747" vertical-offset="3179" max-vertical-offset="3840">
+        <state vertical-scroll-proportion="7.7" vertical-offset="2616" max-vertical-offset="3825">
           <caret line="159" column="32" selection-start-line="159" selection-start-column="32" selection-end-line="159" selection-end-column="32" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75376886" vertical-offset="450" max-vertical-offset="1395">
+          <caret line="60" column="77" selection-start-line="60" selection-start-column="77" selection-end-line="60" selection-end-column="77" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
 </project>
-
