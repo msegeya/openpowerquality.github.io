@@ -7,10 +7,23 @@
     <atom:link href="http://openpowerquality.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Pipeline pilot begins!</title>
-        <description>&lt;p&gt;The OPQ team is delighted to announce the start of a pilot study our &lt;a href=&quot;/technology/roadmap.html#G1:Pipeline&quot;&gt;Generation 1 (Pipeline)&lt;/a&gt; technology.&lt;/p&gt;
+        <title>OPQBox2 Design Review</title>
+        <description>&lt;p&gt;We are super psyched to announce that the &amp;quot;final&amp;quot; design for our second generation OPQBox hardware device is now available for review at the &lt;a href=&quot;http://openpowerquality.github.io/opqbox2&quot;&gt;OPQBox2 Repo Home Page&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The pilot study will involve deployment of 5 OPQBoxes to various locations around Oahu, with the data being sent to our &lt;a href=&quot;http://emilia.ics.hawaii.edu:8194/&quot;&gt;public OPQHub&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;This version of the design incorporates &lt;a href=&quot;https://github.com/openpowerquality/opqbox2/issues?q=is%3Aissue+is%3Aclosed&quot;&gt;lots of fixes&lt;/a&gt; found during the &amp;quot;initial&amp;quot; design&amp;#39;s review.&lt;/p&gt;
+
+&lt;p&gt;Please take a look and let us know what you think.  We hope to make engineering samples during February, 2015.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jan 2015 04:29:39 -1000</pubDate>
+        <link>http://openpowerquality.github.io/2015/01/29/opqbox2.html</link>
+        <guid isPermaLink="true">http://openpowerquality.github.io/2015/01/29/opqbox2.html</guid>
+      </item>
+    
+      <item>
+        <title>Pipeline pilot begins!</title>
+        <description>&lt;p&gt;The OPQ team is delighted to announce the start of a pilot study to evaluate our &lt;a href=&quot;/technology/roadmap.html#G1:Pipeline&quot;&gt;Generation 1 (Pipeline)&lt;/a&gt; technology.&lt;/p&gt;
+
+&lt;p&gt;The pilot study will involve deployment of 5 OPQBoxes to various locations around Oahu, with the data sent to our &lt;a href=&quot;http://emilia.ics.hawaii.edu:8194/&quot;&gt;public OPQHub&lt;/a&gt;.  &lt;/p&gt;
 
 &lt;p&gt;The goal of the study is to improve the usability of our software interface, discover bugs, and (with any luck) collect some interesting power quality events. &lt;/p&gt;
 </description>
