@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> {{ page.title }} | Open Power Quality</title>
+  <title>  | Open Power Quality</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootswatch/3.1.0/cerulean/bootstrap.min.css">
 
   <!--  Load site-specific customizations after bootstrap. -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/gh-fork-ribbon.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="/css/syntax.css">
+  <link rel="stylesheet" href="/css/gh-fork-ribbon.css">
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:normal,italic,bold">
-  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
   <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
@@ -40,24 +40,24 @@
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Technology<b class="caret"></b></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="{{ site.baseurl }}/technology/roadmap.html">Roadmap</a></li>
-            <li><a href="{{ site.baseurl }}/technology/quickstart.html">Quick Start</a></li>
-            <li><a href="{{ site.baseurl }}/technology/g1-pilot-study.html">G1 Pilot Study</a></li>
+            <li><a href="/technology/roadmap.html">Roadmap</a></li>
+            <li><a href="/technology/quickstart.html">Quick Start</a></li>
+            <li><a href="/technology/g1-pilot-study.html">G1 Pilot Study</a></li>
             <li><a href="http://emilia.ics.hawaii.edu:8194/">OPQHub 1</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">Organization<b class="caret"></b></a>
           <ul class="dropdown-menu" role="menu">
-            <li><a href="{{ site.baseurl }}/organization/motivation.html">Why OPQ?</a></li>
-            <li><a href="{{ site.baseurl }}/organization/team.html">Design Team</a></li>
-            <li><a href="{{ site.baseurl }}/organization/community.html">User Communities</a></li>
-            <li><a href="{{ site.baseurl }}/organization/joinus.html">Join us!</a></li>
-            <li><a href="{{ site.baseurl }}/organization/contact.html">Contact us</a></li>
+            <li><a href="/organization/motivation.html">Why OPQ?</a></li>
+            <li><a href="/organization/team.html">Design Team</a></li>
+            <li><a href="/organization/community.html">User Communities</a></li>
+            <li><a href="/organization/joinus.html">Join us!</a></li>
+            <li><a href="/organization/contact.html">Contact us</a></li>
           </ul>
         </li>
         <li><a href="https://groups.google.com/forum/?fromgroups#!forum/openpowerquality">Discussion</a></li>
-        <li><a href="{{ site.baseurl }}/organization/news.html">News</a></li>
+        <li><a href="/organization/news.html">News</a></li>
       </ul>
     </div>
   </div>
@@ -69,7 +69,20 @@
   </div>
 </div>
 
-{{ content }}
+<div class="container">
+  <h1>Join us!</h1>
+
+<p>The Open Power Quality project is looking for undergraduates and graduate students in both computer science and electrical engineering to help us create technology that supports renewable energy in Hawaii!</p>
+
+<p>Are you interested in hardware?  We are currently designing, fabricating, and deploying <a href="http://openpowerquality.org/opqbox2/">OPQBox2</a>.  We invite your participation in all aspects of development.</p>
+
+<p>Are you interested in web application development? We are currently designing and implementing <a href="https://github.com/openpowerquality/opqview2">OPQView2</a>, a <a href="meteor.com">Meteor</a> application for user interaction with the data.</p>
+
+<p>Are you interested in highly scalable systems and big data?  Come help us develop <a href="https://github.com/openpowerquality/opqhub2">OPQHub2</a>, a repository for power quality data.</p>
+
+<p>Let us know you&#39;re interested through the <a href="contact.html">Contact</a> page.</p>
+
+</div>
 
 <div class="dark-blue-background">
   <footer>
@@ -78,7 +91,7 @@
          Department of Information and Computer Sciences<br>
          Department of Electrical Engineering<br>
          University of Hawaii, Honolulu, HI USA</p>
-      <p>Last update on: <span>{{ site.time | date_to_string }}</span></p>
+      <p>Last update on: <span>15 Sep 2015</span></p>
     </div>
   </footer>
 </div>
