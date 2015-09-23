@@ -3,6 +3,10 @@ layout: userguide
 title: Quick Start
 ---
 
+# 0. Caveat
+
+This quick start refers to our first generation system. We are working on the second generation system and will publish an updated quick start in the near future.
+
 # 1. Obtain an OPQBox
 
 The first step in getting started is to obtain an OPQBox.
