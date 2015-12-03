@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="542d5d83-fe9b-4d59-8db8-fd2797ca9c50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/images/bigdata.jpg" afterPath="$PROJECT_DIR$/src/_site/images/bigdata.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/bigdata.jpg" afterPath="$PROJECT_DIR$/src/images/bigdata.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/images/opqbox2-engineering-sample-250.jpg" afterPath="$PROJECT_DIR$/src/_site/images/opqbox2-engineering-sample-250.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/opqbox2-engineering-sample-250.jpg" afterPath="$PROJECT_DIR$/src/images/opqbox2-engineering-sample-250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/technology/projects.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/community.html" afterPath="$PROJECT_DIR$/src/_site/organization/community.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/contact.html" afterPath="$PROJECT_DIR$/src/_site/organization/contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_layouts/default.html" afterPath="$PROJECT_DIR$/src/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/technology/developerguide.html" afterPath="$PROJECT_DIR$/src/_site/technology/developerguide.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" afterPath="$PROJECT_DIR$/src/_site/2014/02/04/excelerator.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/feed.xml" afterPath="$PROJECT_DIR$/src/_site/feed.xml" />
@@ -15,7 +13,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" afterPath="$PROJECT_DIR$/src/_site/2014/08/01/g1-pilot.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/index.html" afterPath="$PROJECT_DIR$/src/_site/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/joinus.html" afterPath="$PROJECT_DIR$/src/_site/organization/joinus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/organization/joinus.md" afterPath="$PROJECT_DIR$/src/organization/joinus.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/motivation.html" afterPath="$PROJECT_DIR$/src/_site/organization/motivation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/organization/news.html" afterPath="$PROJECT_DIR$/src/_site/organization/news.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" afterPath="$PROJECT_DIR$/src/_site/2014/10/27/opqbox2.html" />
@@ -81,8 +78,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -119,7 +116,7 @@
       <file leaf-file-name="2015-09-22-opqbox2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_posts/2015-09-22-opqbox2.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0344827">
+            <state vertical-scroll-proportion="0.0">
               <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
               <folding />
             </state>
@@ -132,7 +129,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.625">
+            <state vertical-scroll-proportion="0.0">
               <caret line="86" column="125" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="125" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
@@ -144,8 +141,8 @@
       <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
+            <state vertical-scroll-proportion="-8.75">
+              <caret line="43" column="78" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -177,11 +174,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="motivation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/organization/motivation.md">
+      <file leaf-file-name="joinus.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/organization/joinus.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.51724136">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -190,11 +187,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="joinus.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/organization/joinus.md">
+      <file leaf-file-name="projects.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/technology/projects.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1891892">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.08219178">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -226,10 +223,11 @@
         <option value="$PROJECT_DIR$/src/organization/team.md" />
         <option value="$PROJECT_DIR$/src/technology/roadmap.md" />
         <option value="$PROJECT_DIR$/src/technology/quickstart.md" />
-        <option value="$PROJECT_DIR$/src/_layouts/default.html" />
         <option value="$PROJECT_DIR$/src/_posts/2015-01-29-opqbox2.md" />
         <option value="$PROJECT_DIR$/src/_posts/2015-09-22-opqbox2.md" />
         <option value="$PROJECT_DIR$/src/organization/joinus.md" />
+        <option value="$PROJECT_DIR$/src/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/src/technology/projects.md" />
       </list>
     </option>
   </component>
@@ -241,9 +239,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1509" />
-    <option name="y" value="-504" />
-    <option name="width" value="1392" />
+    <option name="x" value="1463" />
+    <option name="y" value="-507" />
+    <option name="width" value="1518" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -320,7 +318,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="organization" />
+              <option name="myItemId" value="technology" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -338,7 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="organization" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -363,8 +361,8 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,11 +383,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/technology" />
       <recent name="$PROJECT_DIR$/src/_posts" />
       <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/organization" />
       <recent name="$PROJECT_DIR$/src/_includes" />
-      <recent name="$PROJECT_DIR$/src/about" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/images" />
@@ -463,7 +461,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1509" y="-504" width="1392" height="877" extended-state="0" />
+    <frame x="1463" y="-507" width="1518" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -472,7 +470,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3362963" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31233063" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -510,14 +508,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/organization/team.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_includes/community-image.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -582,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -813,7 +802,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="103" selection-start-line="20" selection-start-column="103" selection-end-line="20" selection-end-column="103" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
@@ -858,14 +846,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="55" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_posts/2014-10-27-opqbox2.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -890,7 +870,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_posts/2015-09-22-opqbox2.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0344827">
+        <state vertical-scroll-proportion="0.0">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
           <folding />
         </state>
@@ -901,7 +881,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.625">
+        <state vertical-scroll-proportion="0.0">
           <caret line="86" column="125" selection-start-line="86" selection-start-column="8" selection-end-line="86" selection-end-column="125" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#4;n#!!top" expanded="true" />
@@ -911,8 +891,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/organization/joinus.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1891892">
+        <state vertical-scroll-proportion="0.51724136">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75">
+          <caret line="43" column="78" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/technology/projects.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08219178">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
           <folding />
         </state>
       </provider>
