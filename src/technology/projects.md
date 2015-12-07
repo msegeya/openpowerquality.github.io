@@ -32,16 +32,29 @@ The Power System Overhaul task is largely decoupled from the rest of the develop
 Here is how the tasks relate to various areas of interest: circuit design, simulation, embedded and Linux software, and data analysis:
 
 <table class="table table-bordered">
-<tr> <td>  </td> <td>Power</td> <td>AFE</td> <td>DSP</td>  <td>PI</td> </tr>
+<tr> <td></td> <td>Power</td>   <td>AFE</td>   <td>DSP</td>    <td>PI</td> </tr>
 
-<tr> <td>Circuit design</td> <td>X</td> <td><td> </td> <td></td>  </tr>
-<tr> <td>Simulation</td> <td>X</td> <td>X</td> <td>X</td> <td></td>  </tr>
-<tr> <td>Software/Embedded</td> <td></td> <td>X</td> <td>X</td> <td>X</td>  </tr>
-<tr> <td>Software/Linux</td> <td></td> <td></td> <td></td> <td>X</td>  </tr>
-<tr> <td>Data analysis</td> <td></td> <td></td> <td>X</td> <td></td>  </tr>
-
+<tr> <td>Circuit design</td>    <td>X</td>  <td></td>   <td></td>  <td></td>  </tr>
+<tr> <td>Simulation</td>        <td>X</td>  <td>X</td>  <td>X</td> <td></td>  </tr>
+<tr> <td>Software/Embedded</td> <td></td>   <td>X</td>  <td>X</td> <td>X</td>  </tr>
+<tr> <td>Software/Linux</td>    <td></td>   <td></td>   <td></td>  <td>X</td>  </tr>
+<tr> <td>Data analysis</td>     <td></td>   <td></td>   <td>X</td> <td></td>  </tr>
 
 </table>
+
+Here's student interest (big X means primary interest, small x means secondary interest):
+
+<table class="table table-bordered">
+<tr> <td></td>               <td>Power</td> <td>AFE</td> <td>DSP</td>  <td>PI</td> </tr>
+
+<tr> <td>Bobby White</td>        <td></td>   <td></td>   <td>X</td> <td></td>  </tr>
+<tr> <td>Jordan Ugalino</td>     <td>X</td>  <td></td>   <td></td>  <td>x</td>  </tr>
+<tr> <td>Grant Liu</td>          <td>x</td>  <td></td>   <td></td>  <td>X</td>  </tr>
+<tr> <td>Rochelle Pagaduan</td>  <td></td>   <td></td>   <td></td>  <td></td>  </tr>
+
+</table>
+
+
  
 
 
