@@ -42,7 +42,7 @@ Here is how the tasks relate to various areas of interest: circuit design, simul
 
 </table>
 
-Here's student interest (big X means primary interest, small x means secondary interest):
+Here's student interest relates to the tasks (big X means primary interest, small x means secondary interest):
 
 <table class="table table-bordered">
 <tr> <td></td>               <td>Power</td> <td>AFE</td> <td>DSP</td>  <td>PI</td> </tr>
