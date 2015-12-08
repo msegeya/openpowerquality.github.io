@@ -50,7 +50,7 @@ Here's student interest relates to the tasks (big X means primary interest, smal
 <tr> <td>Bobby White</td>        <td></td>   <td></td>   <td>X</td> <td></td>  </tr>
 <tr> <td>Jordan Ugalino</td>     <td>X</td>  <td></td>   <td></td>  <td>x</td>  </tr>
 <tr> <td>Grant Liu</td>          <td>x</td>  <td></td>   <td></td>  <td>X</td>  </tr>
-<tr> <td>Rochelle Pagaduan</td>  <td></td>   <td></td>   <td></td>  <td></td>  </tr>
+<tr> <td>Rochelle Pagaduan</td>  <td>x</td>   <td>X</td>   <td></td>  <td></td>  </tr>
 
 </table>
 
