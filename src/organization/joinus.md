@@ -50,7 +50,7 @@ The end deliverable will be a visualization and/or plot that shows the classific
 
 Students will develop web-based user interfaces for PQ data consumption using the [Meteor Framework](http://www.meteor.com). Students should have some background in web technologies (javascript, css, html, etc). Ideas of UI components include PQ maps, PQ event lists, display of grid-events vs local-event, and more.
 
-The end deliverable will be a UI component(s) that enhances the way we provide PQ information to consumers.
+The end deliverable will be a UI component(s) that enhances the way we provide PQ information to consumers and researchers.
 
 
 # For more information
